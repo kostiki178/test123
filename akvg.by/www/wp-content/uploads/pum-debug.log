@@ -1,0 +1,4 @@
+
+2020-4-23 08:39:31 - Cannot access cache file when tested. Tested file: https://akvg.by/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 7: Failed connect to akvg.by:443; Connection refused
+2020-4-23 21:07:38 - Cannot access cache file when tested. Tested file: https://akvg.by/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 7: Failed connect to akvg.by:443; Connection refused
+2020-4-26 10:48:31 - Cannot access cache file when tested. Tested file: https://akvg.by/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 7: Failed connect to akvg.by:443; Connection refused
